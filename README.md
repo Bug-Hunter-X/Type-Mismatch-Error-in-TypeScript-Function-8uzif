@@ -1,0 +1,1 @@
+This repository demonstrates a common type mismatch error in TypeScript and how to resolve it using type assertion or function parameter type modification.  The `bug.ts` file contains the erroneous code, while `bugSolution.ts` presents the corrected version.
